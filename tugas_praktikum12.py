@@ -2,7 +2,7 @@
 """
 Created on Sun Dec 26 15:47:47 2021
 
-@author: Novan Krisna
+@author: FARIZ UBAIDILLAH
 """
 
 class Mahasiswa:
